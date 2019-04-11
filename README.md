@@ -1,5 +1,5 @@
 # DNAandGrids
-This project was created to host data sets and scripts used in the paper [1] and the accompanying supplementary information.
+This project was created to host data sets and programs used in the paper [1] and the accompanying supplementary information.
 <br>
 The programs are written in <a href="http://www.sagemath.org/">SAGE</a>. <br>
 For contact information, please see <a href="https://www.maths.ox.ac.uk/people/agnese.barbensi">here</a>.
