@@ -3,9 +3,10 @@ This project was created to host data sets and programs used in the paper [1] an
 <br>
 The programs are written in <a href="http://www.sagemath.org/">SAGE</a>. <br>
 
-For each grid number GN we created GN-3 (hooked) adjacency tables. Each of these tables accounts for passages happening at juxtapositions where the length of the maximum segment of the rectangle is <= l, where 0< l < GN - 4. The probability that a configuration representing a specific knot type is transformed into an unknotted one by an interleaving commutation increases as we consider hooked juxtapositions with shorter edges.<br>
+For each GN we sampled 16000 grids; note that for computational reasons, for higher GN we performed 16 iterations of the process, each time sampling 1000 configuration; for smaller GN we iterated the process twice, sampling 8000 configurations each time.<br>
 
-Note that for computational reasons, for higher GN we performed 16 iterations of the process, each time sampling 1000 configuration; for smaller GN we iterated the process twice, sampling 8000 configurations each time.<br>
+For each grid number, and for each iteration, we created GN-2 adjacency tables. The first matrix accounts for unbiased strand passages. The following ones account for passages happening at hooked juxtapositions. Each of these GN-3 tables accounts for passages happening at juxtapositions where the length of the maximum segment of the rectangle is <= k, where 0< k < GN - 4.<br>
+
 
 
 For contact information, please see <a href="https://www.maths.ox.ac.uk/people/agnese.barbensi">here</a>.
