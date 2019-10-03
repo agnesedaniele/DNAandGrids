@@ -13,4 +13,4 @@ For contact information, please see <a href="https://www.maths.ox.ac.uk/people/a
 <br><br><br>
 
 
-[1]: "Grid diagram approach to investigate knot spaces and topoisomerase-mediated simplification of DNA topology", A.Barbensi, D.Celoria, D.Buck, A.Stasiak,H.Harrington. Submitted to PNAS (2019).
+[1]: "Grid diagram approach to investigate knot spaces and topoisomerase-mediated simplification of DNA topology", A.Barbensi, D.Celoria, D.Buck, A.Stasiak,H.Harrington. Submitted (2019).
